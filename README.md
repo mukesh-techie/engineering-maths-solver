@@ -13,7 +13,7 @@ solve maths problems easily!
 ## How to Use
 
 1. Clone this repository
-git clone https://github.com/yourusername/engineering-maths-solver
+git clone https://github.com/mukesh-techie/engineering-maths-solver
 
 2. Run the program
 python solver.py
